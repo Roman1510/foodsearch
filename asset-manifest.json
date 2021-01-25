@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/foodsearch/static/css/main.69f32bec.chunk.css",
-    "main.js": "/foodsearch/static/js/main.baca5930.chunk.js",
-    "main.js.map": "/foodsearch/static/js/main.baca5930.chunk.js.map",
+    "main.css": "/foodsearch/static/css/main.f0e950fa.chunk.css",
+    "main.js": "/foodsearch/static/js/main.3e7a61f3.chunk.js",
+    "main.js.map": "/foodsearch/static/js/main.3e7a61f3.chunk.js.map",
     "runtime-main.js": "/foodsearch/static/js/runtime-main.6e9fed57.js",
     "runtime-main.js.map": "/foodsearch/static/js/runtime-main.6e9fed57.js.map",
-    "static/js/2.3050eb96.chunk.js": "/foodsearch/static/js/2.3050eb96.chunk.js",
-    "static/js/2.3050eb96.chunk.js.map": "/foodsearch/static/js/2.3050eb96.chunk.js.map",
+    "static/js/2.5ff0a4bf.chunk.js": "/foodsearch/static/js/2.5ff0a4bf.chunk.js",
+    "static/js/2.5ff0a4bf.chunk.js.map": "/foodsearch/static/js/2.5ff0a4bf.chunk.js.map",
     "index.html": "/foodsearch/index.html",
-    "static/css/main.69f32bec.chunk.css.map": "/foodsearch/static/css/main.69f32bec.chunk.css.map",
-    "static/js/2.3050eb96.chunk.js.LICENSE.txt": "/foodsearch/static/js/2.3050eb96.chunk.js.LICENSE.txt"
+    "static/css/main.f0e950fa.chunk.css.map": "/foodsearch/static/css/main.f0e950fa.chunk.css.map",
+    "static/js/2.5ff0a4bf.chunk.js.LICENSE.txt": "/foodsearch/static/js/2.5ff0a4bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6e9fed57.js",
-    "static/js/2.3050eb96.chunk.js",
-    "static/css/main.69f32bec.chunk.css",
-    "static/js/main.baca5930.chunk.js"
+    "static/js/2.5ff0a4bf.chunk.js",
+    "static/css/main.f0e950fa.chunk.css",
+    "static/js/main.3e7a61f3.chunk.js"
   ]
 }
